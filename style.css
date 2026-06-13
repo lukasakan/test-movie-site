@@ -1,0 +1,84 @@
+* {
+   box-shadow: border-box;
+}
+body{
+    background: #10141E;
+    font-family: Outfit;
+    color: white;
+}
+html {
+    font-size: 10px;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    background: #10141E;
+    height: 5.6rem;
+
+
+}
+.movie{
+    width: 2.5rem;
+    height: 2rem;
+}
+
+.proflie {
+    width: 2.4rem;
+    height: 2.4rem;
+
+
+}
+
+.pages {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+}
+.page{
+    width: 1.6rem;
+    height: 1.6rem;
+}
+input{
+    background: none;
+    border: none;
+    width: 15.2rem;
+    height: 2rem;
+
+    font-weight: 400;
+    font-size: 16px;
+
+    line-height: 100%;
+    letter-spacing: 0px;
+
+}
+
+.search{
+    width: 2.4rem;
+    height: 2.4rem;
+
+
+}
+
+h1{
+    width: 8.1rem;
+    height: 2.5rem;
+
+    font-weight: 400;
+    font-size: 20px;
+
+    line-height: 100%;
+    letter-spacing: -0.31px;
+     
+    color: white;
+
+
+}
+
+.movie{
+    display: flex;
+    flex-direction: row;
+}
+.thumbanil{
+
+
+}
